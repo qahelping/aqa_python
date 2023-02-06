@@ -1,1 +1,1 @@
-print("Yauheni Wind")
+print("Hello world")
