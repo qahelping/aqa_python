@@ -1,4 +1,1 @@
-print("Yauheni Wind")
-print("Alexander")
-
-print("olla")
+print("Hello world")
